@@ -1,0 +1,10 @@
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\bin\Debug\myWindowsFormsApp.exe.config
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\bin\Debug\myWindowsFormsApp.exe
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\bin\Debug\myWindowsFormsApp.pdb
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.csprojAssemblyReference.cache
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.coffeshop.resources
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.Properties.Resources.resources
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.csproj.GenerateResource.cache
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.csproj.CoreCompileInputs.cache
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.exe
+F:\ASSIGNMENTS\project2\myWindowsFormsApp\myWindowsFormsApp\obj\Debug\myWindowsFormsApp.pdb
